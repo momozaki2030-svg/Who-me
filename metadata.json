@@ -1,0 +1,6 @@
+{
+  "name": "لعبة من أنا؟ (Who Am I?)",
+  "description": "لعبة تخمين ممتعة مبنية على فكرة 20 سؤال. تحوي عناصر وشخصيات مختلفة مع حكم ذكاء اصطناعي تفاعلي للإجابة عن الأسئلة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

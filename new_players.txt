@@ -1,0 +1,442 @@
+
+  {
+    id: 'fp_0',
+    name: 'كريستيانو رونالدو',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'كريستيانو رونالدو']
+  },
+  {
+    id: 'fp_1',
+    name: 'ليونيل ميسي',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'ليونيل ميسي']
+  },
+  {
+    id: 'fp_2',
+    name: 'نيمار',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'نيمار']
+  },
+  {
+    id: 'fp_3',
+    name: 'كيليان مبابي',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'كيليان مبابي']
+  },
+  {
+    id: 'fp_4',
+    name: 'إيرلينغ هالاند',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'إيرلينغ هالاند']
+  },
+  {
+    id: 'fp_5',
+    name: 'محمد صلاح',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'محمد صلاح']
+  },
+  {
+    id: 'fp_6',
+    name: 'كيفين دي بروين',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'كيفين دي بروين']
+  },
+  {
+    id: 'fp_7',
+    name: 'روبرت ليفاندوفسكي',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'روبرت ليفاندوفسكي']
+  },
+  {
+    id: 'fp_8',
+    name: 'لوكا مودريتش',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'لوكا مودريتش']
+  },
+  {
+    id: 'fp_9',
+    name: 'كريم بنزيما',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'كريم بنزيما']
+  },
+  {
+    id: 'fp_10',
+    name: 'ساديو ماني',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'ساديو ماني']
+  },
+  {
+    id: 'fp_11',
+    name: 'هاري كين',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'هاري كين']
+  },
+  {
+    id: 'fp_12',
+    name: 'سون هيونغ مين',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'سون هيونغ مين']
+  },
+  {
+    id: 'fp_13',
+    name: 'فينيسيوس جونيور',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'فينيسيوس جونيور']
+  },
+  {
+    id: 'fp_14',
+    name: 'فيرجيل فان دايك',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'فيرجيل فان دايك']
+  },
+  {
+    id: 'fp_15',
+    name: 'تيبو كورتوا',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'تيبو كورتوا']
+  },
+  {
+    id: 'fp_16',
+    name: 'سون هيونغ مين',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'سون هيونغ مين']
+  },
+  {
+    id: 'fp_17',
+    name: 'أليسون بيكر',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'أليسون بيكر']
+  },
+  {
+    id: 'fp_18',
+    name: 'برناردو سيلفا',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'برناردو سيلفا']
+  },
+  {
+    id: 'fp_19',
+    name: 'روبن دياز',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'روبن دياز']
+  },
+  {
+    id: 'fp_20',
+    name: 'رياض محرز',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'رياض محرز']
+  },
+  {
+    id: 'fp_21',
+    name: 'أشرف حكيمي',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'أشرف حكيمي']
+  },
+  {
+    id: 'fp_22',
+    name: 'ياسين بونو',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'ياسين بونو']
+  },
+  {
+    id: 'fp_23',
+    name: 'جود بيلينغهام',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'جود بيلينغهام']
+  },
+  {
+    id: 'fp_24',
+    name: 'بيدري',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'بيدري']
+  },
+  {
+    id: 'fp_25',
+    name: 'جافي',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'جافي']
+  },
+  {
+    id: 'fp_26',
+    name: 'ماركوس راشفورد',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'ماركوس راشفورد']
+  },
+  {
+    id: 'fp_27',
+    name: 'برونو فيرنانديز',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'برونو فيرنانديز']
+  },
+  {
+    id: 'fp_28',
+    name: 'رافاييل لياو',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'رافاييل لياو']
+  },
+  {
+    id: 'fp_29',
+    name: 'إدواردو كامافينغا',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'إدواردو كامافينغا']
+  },
+  {
+    id: 'fp_30',
+    name: 'أنطوان غريزمان',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'أنطوان غريزمان']
+  },
+  {
+    id: 'fp_31',
+    name: 'ديوغو جوتا',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'ديوغو جوتا']
+  },
+  {
+    id: 'fp_32',
+    name: 'فيل فودين',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'فيل فودين']
+  },
+  {
+    id: 'fp_33',
+    name: 'إيمرسون',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'إيمرسون']
+  },
+  {
+    id: 'fp_34',
+    name: 'لويس دياز',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'لويس دياز']
+  },
+  {
+    id: 'fp_35',
+    name: 'غابرييل خيسوس',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'غابرييل خيسوس']
+  },
+  {
+    id: 'fp_36',
+    name: 'بوكايو ساكا',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'بوكايو ساكا']
+  },
+  {
+    id: 'fp_37',
+    name: 'ديكلان رايس',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'ديكلان رايس']
+  },
+  {
+    id: 'fp_38',
+    name: 'مارتين أوديغارد',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'مارتين أوديغارد']
+  },
+  {
+    id: 'fp_39',
+    name: 'لاوتارو مارتينيز',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'لاوتارو مارتينيز']
+  },
+  {
+    id: 'fp_40',
+    name: 'إنزو فرنانديز',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'إنزو فرنانديز']
+  },
+  {
+    id: 'fp_41',
+    name: 'أندري أونانا',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'أندري أونانا']
+  },
+  {
+    id: 'fp_42',
+    name: 'مارك أندريه تير شتيغن',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'مارك أندريه تير شتيغن']
+  },
+  {
+    id: 'fp_43',
+    name: 'جواو كانسيلو',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'جواو كانسيلو']
+  },
+  {
+    id: 'fp_44',
+    name: 'رونالد أراوخو',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'رونالد أراوخو']
+  },
+  {
+    id: 'fp_45',
+    name: 'فيديريكو فالفيردي',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'فيديريكو فالفيردي']
+  },
+  {
+    id: 'fp_46',
+    name: 'توني كروس',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'توني كروس']
+  },
+  {
+    id: 'fp_47',
+    name: 'ديفيد ألابا',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'ديفيد ألابا']
+  },
+  {
+    id: 'fp_48',
+    name: 'رودريغو غوس',
+    categoryId: 'sports',
+    subcategoryId: 'football_players',
+    difficulty: 'easy',
+    image: '',
+    keywords: ['كرة قدم', 'لاعب', 'رودريغو غوس']
+  },
